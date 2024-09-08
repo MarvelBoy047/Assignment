@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+motpy
+torch
+ultralytics
+tensorflow
+google-generativeai
+ffmpeg-python  # Optional, if you're using FFmpeg for re-encoding
