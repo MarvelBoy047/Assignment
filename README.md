@@ -72,7 +72,7 @@ pip install streamlit google-generativeai opencv-python motpy torch ultralytics 
 ## Folder Structure
 
 ```
-APP/
+emotions_detection/
 ├── app.py             # Main Streamlit application
 ├── processed_videos/  # Folder to store processed videos with object tracking
 ├── processed_emotions/ # Folder to store processed videos with emotion detection
