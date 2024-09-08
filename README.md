@@ -49,7 +49,14 @@ This Streamlit application allows users to upload a video file, process it with 
 *   Google Generative AI
 
 **To install dependencies:**
+**How to use `requirements.txt`:**
 
+1.  Save this content as `requirements.txt` in the same directory as your `app.py` file.
+2.  When deploying or sharing your project, include `requirements.txt`.
+3.  To install all the required packages, run:
+    ```bash
+    pip install -r requirements.txt
+    ```
 ```bash
 pip install streamlit google-generativeai opencv-python motpy torch ultralytics tensorflow
 
