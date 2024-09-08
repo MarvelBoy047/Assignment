@@ -59,7 +59,7 @@ This Streamlit application allows users to upload a video file, process it with 
     ```
 ```bash
 pip install streamlit google-generativeai opencv-python motpy torch ultralytics tensorflow
-
+```
 ## Usage
 
 1.  **Clone the repository:**
@@ -78,7 +78,7 @@ pip install streamlit google-generativeai opencv-python motpy torch ultralytics 
 
 ## Folder Structure
 
-
+```
 emotions_detection/
 ├── app.py             # Main Streamlit application
 ├── processed_videos/  # Folder to store processed videos with object tracking
