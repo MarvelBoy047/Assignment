@@ -87,7 +87,7 @@ emotions_detection/
 *   Large videos may result in longer processing times.
 *   The effectiveness of Gemini's responses may vary depending on the video content and the complexity of the question.
 
-
+```
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues. 
