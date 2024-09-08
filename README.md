@@ -1,4 +1,7 @@
 ```markdown
+here are all required files ---> https://drive.google.com/drive/folders/1nI1fMD5rWtoQPiVBApUhSyCcNggnLbV2?usp=sharing
+```
+
 # Video Annotation, Emotion Detection, and Gemini Integration App
 
 This Streamlit application allows users to upload a video file, process it with object tracking and emotion detection, and then interact with the video content using Gemini, Google's powerful large language model.
@@ -49,7 +52,6 @@ This Streamlit application allows users to upload a video file, process it with 
 
 ```bash
 pip install streamlit google-generativeai opencv-python motpy torch ultralytics tensorflow
-```
 
 ## Usage
 
