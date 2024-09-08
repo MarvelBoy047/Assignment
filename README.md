@@ -57,7 +57,7 @@ pip install streamlit google-generativeai opencv-python motpy torch ultralytics 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/MarvelBoy047/Assignment.git
     ```
 2.  **Obtain a Gemini API Key:** Get a Gemini API key from the Google Cloud Console.
 3.  **Run the app:**
@@ -72,7 +72,7 @@ pip install streamlit google-generativeai opencv-python motpy torch ultralytics 
 ## Folder Structure
 
 ```
-emotions_detection/
+APP/
 ├── app.py             # Main Streamlit application
 ├── processed_videos/  # Folder to store processed videos with object tracking
 ├── processed_emotions/ # Folder to store processed videos with emotion detection
@@ -93,14 +93,4 @@ emotions_detection/
 Contributions are welcome! Please feel free to submit pull requests or open issues. 
 
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
 ```
-
-
-**How to use this README:**
-
-1.  **Save it as `README.md`** in the same directory as your `app.py` file.
-2.  **Customize:** Update any details specific to your project, such as repository URL, instructions, etc.
-3.  **Commit to your repository:** Include this file in your project's repository on GitHub or GitLab.
